@@ -5,6 +5,4 @@
 - Easy to follow instructions
 - Great TA's
 
-
-[Link](url) and ![Image](src)
 ```
